@@ -9,4 +9,4 @@ Data Analytics Portfolio Project using SQL on a real e-commerce dataset from Zep
 PostgreSQL to performing data cleaning, exploratory data analysis (EDA), and solving business problems using SQL.
 
 Some screenshots of PostgreSQL while running the business queries.
-![SS]()
+![SS](https://github.com/piyusharora4371-wq/zepto_business_project/blob/main/2026-04-27%20(1).png)
