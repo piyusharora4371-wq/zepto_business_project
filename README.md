@@ -10,3 +10,5 @@ PostgreSQL to performing data cleaning, exploratory data analysis (EDA), and sol
 
 Some screenshots of PostgreSQL while running the business queries.
 ![SS](https://github.com/piyusharora4371-wq/zepto_business_project/blob/main/2026-04-27%20(1).png)
+
+![ss](https://github.com/piyusharora4371-wq/zepto_business_project/blob/main/2026-04-27.png)
