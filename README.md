@@ -1,1 +1,3 @@
-# zepto_business_project
+# Zepto business queries solved using sql.
+
+![Zepto logo]()
